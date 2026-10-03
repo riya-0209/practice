@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Web Development Workshop",
+        "category": "Technology",
+        "venue": "Computer Lab",
+        "seats": 40
+    },
+    {
+        "name": "Photography Walk",
+        "category": "Arts",
+        "venue": "Main Campus",
+        "seats": 25
+    },
+    {
+        "name": "Startup Pitch Night",
+        "category": "Business",
+        "venue": "Auditorium",
+        "seats": 100
+    }
+]
